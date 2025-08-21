@@ -1,0 +1,4 @@
+In this section, you will find different types of operations performed in string using python language like:
+1. Count Vowels - Counting the total vowels came in the word/sentence/paragraph you had provided 
+2. Reverse word and sentence - In this, a) if you have given a word, it will give you the reverse word like - abcd - dcba
+                                        b) if you have given a sentence, it will give you the reverse of that sentence like: you are here - here are you
